@@ -1,6 +1,6 @@
 # Compania
 
-##Entendiendo el código fuente
+## Entendiendo el código fuente
 
 El analista de vuestro equipo de desarrollo ha terminado de modelar los aspectos
 fundamentales de la empresa del cliente. Le presenta al resto del equipo de desarrollo
